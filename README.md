@@ -16,3 +16,8 @@ API endpoints
 | DELETE| /users/{id}	    | Удалить пользователя  |
 | PUT   | /users/{id}	    | Обновить пользователя |
 | POST  | /users	    | Добавить пользователя |
+
+## Технологии
+- GO 1.24.3
+- SQLite
+- Gorilla Mux
